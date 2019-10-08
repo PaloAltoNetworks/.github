@@ -22,7 +22,7 @@ assignees: ''
 <!--- A clear and concise description of any alternative solutions, -->
 <!--- features, or workarounds you've considered. -->
 
-### Additional context*
+### Additional context
 
 <!--- How has this issue affected you? What are you trying to accomplish? -->
 <!--- Providing context helps us come up with a solution that is useful in the real world -->
