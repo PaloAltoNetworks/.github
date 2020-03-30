@@ -1,0 +1,11 @@
+# Comment to be posted on first time issues
+newIssueWelcomeComment: >
+  :tada: Thanks for opening your first issue here! Welcome to the community!
+
+# Comment to be posted on PRs from first time contributors in your repository
+newPRWelcomeComment: >
+  :tada: Thanks for opening this pull request! We really appreciate contributors like you! :raised_hands:
+
+# Comment to be posted on pull requests merged by a first time user
+firstPRMergeComment: >
+  :tada: Congrats on getting your first pull request merged! We here at Palo Alto Networks are so grateful! :heart:
