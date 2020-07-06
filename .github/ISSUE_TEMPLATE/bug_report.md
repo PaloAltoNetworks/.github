@@ -7,8 +7,6 @@ assignees: ''
 
 ---
 
-<!--- Provide a general summary of the issue in the Title above -->
-
 ## Describe the bug
 
 <!--- A clear and concise description of what is wrong -->
@@ -39,7 +37,7 @@ assignees: ''
 
 ## Screenshots
 
-<!--- Drag any screenshots of the issue into this section -->
+<!--- Drag any screenshots of the issue here or delete this section -->
 
 ## Context
 
