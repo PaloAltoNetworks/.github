@@ -1,5 +1,3 @@
-<!--- Provide a general summary of your changes in the Title above -->
-
 ## Description
 
 <!--- Describe your changes in detail -->
@@ -17,13 +15,12 @@
 
 ## Screenshots (if appropriate)
 
-<!--- Drag any screenshots here -->
+<!--- Drag any screenshots here or delete this section -->
 
 ## Types of changes
 
 <!--- What types of changes does your code introduce? -->
-
-<!--- Remove any that don't apply: -->
+<!--- PICK ONE: -->
 
 - Bug fix (non-breaking change which fixes an issue)
 - New feature (non-breaking change which adds functionality)
