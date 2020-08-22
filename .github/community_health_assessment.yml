@@ -1,0 +1,73 @@
+threshold: 100
+checks:
+  repoName:
+    value: 15
+    infoLink: https://github.com/PaloAltoNetworks/.github/blob/master/docs/community-rules.md#repository-name
+  description:
+    value: 15
+    infoLink: https://github.com/PaloAltoNetworks/.github/blob/master/docs/community-rules.md#repository-description
+  license:
+    value: 15
+    infoLink: https://github.com/PaloAltoNetworks/.github/blob/master/docs/community-rules.md#license
+  readmeFile:
+    value: 20
+    infoLink: https://github.com/PaloAltoNetworks/.github/blob/master/docs/community-rules.md#readme-file
+  supportFile:
+    value: 20
+    infoLink: https://github.com/PaloAltoNetworks/.github/blob/master/docs/community-rules.md#support-file
+  topics:
+    value: 15
+    infoLink: https://github.com/PaloAltoNetworks/.github/blob/master/docs/community-rules.md#repository-topics
+    topicCorrections:
+      pan-os:
+        - panos
+      globalprotect:
+        - global-protect
+      logging-service:
+        - loggingservice
+      cortex-data-lake:
+        - cdl
+      autofocus:
+        - auto-focus
+      vm-series:
+        - vmseries
+      cloud-services:
+        - cloudservices
+    requiredTopic:
+      - autofocus
+      - cloud-services
+      - cortex
+      - cortex-data-lake
+      - cortex-xdr
+      - cortex-xdr-analytics
+      - cortex-xdr-investigation-and-response
+      - demisto
+      - directory-sync-service
+      - evident
+      - globalprotect
+      - hardware
+      - hub
+      - log-forwarding-app
+      - logging-service
+      - pan-os
+      - panorama
+      - prisma-access
+      - prisma-cloud
+      - prisma-cloud-compute-edition
+      - prisma-saas
+      - secdo
+      - security-lifecycle-review-slr
+      - traps
+      - traps-management-service
+      - vm-series
+      - wildfire
+  contributingFile:
+    value: 5
+    infoLink: https://github.com/PaloAltoNetworks/.github/blob/master/docs/community-rules.md#contribution-guidelines
+  customTemplates:
+    value: 5
+    infoLink: https://github.com/PaloAltoNetworks/.github/blob/master/docs/community-rules.md#issue-and-pr-templates
+  licenseFile:
+    disabled: true
+  codeOfConductFile:
+    disabled: true
