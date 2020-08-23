@@ -1,6 +1,6 @@
 # Community Health Rules
 
-**Palo Alto Networks Rules:**
+**Palo Alto Networks Guidelines:**
 
 - [Repository name](#repository-name)
 - [Repository description](#repository-description)
